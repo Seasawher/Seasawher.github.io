@@ -1,0 +1,13 @@
+home:
+  welcome: パンの木を植えて
+
+menu_links: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: パンの木を植えて
+  description: 個人的なメモを書くためのブログ
+  title: "=title"
+  image: "=image"
+  # twitter: "@username"
+  lang: ja
