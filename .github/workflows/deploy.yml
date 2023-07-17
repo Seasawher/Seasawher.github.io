@@ -36,4 +36,4 @@ jobs:
         with:
           project: "lume"
           entrypoint: "serve.ts" # 📝 Update the entrypoint
-          root: "_site" # 📝 Update the root
+          root: "." # 📝 Update the root
