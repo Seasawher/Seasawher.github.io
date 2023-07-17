@@ -34,6 +34,6 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "lume"
+          project: "seasawher-blog"
           entrypoint: "serve.ts" # 📝 Update the entrypoint
           root: "." # 📝 Update the root
