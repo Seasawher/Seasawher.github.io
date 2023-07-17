@@ -2,30 +2,33 @@ name: Publish on Deno Deploy
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
+    branches: main
+  pull_request:
+    branches: main
 
 jobs:
   deploy:
+    name: Deploy
     runs-on: ubuntu-latest
     permissions:
-      id-token: write
-      contents: read
+      id-token: write # Needed for auth with Deno Deploy
+      contents: read # Needed to clone the repository
 
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
 
-      - name: Setup Deno environment
-        uses: denoland/setup-deno@v1
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          deno-version: v1.x
+          node-version: lts/*
 
-      - name: Build site
-        run: deno run -A https://deno.land/x/lume@v1.5.1/ci.ts
+      - name: Build step
+        run: deno run -A https://deno.land/x/lume/cli.ts # 📝 Update the build command(s)
 
-      - name: Deploy to Deno Deploy
+      - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: lume
-          entrypoint: serve.ts
+          project: "lume"
+          entrypoint: "serve.ts" # 📝 Update the entrypoint
+          root: "_site" # 📝 Update the root
