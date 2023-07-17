@@ -14,6 +14,7 @@ site
   .use(blog())
   .remoteFile(
     "_includes/css/code.css",
+    // カラーテーマは https://github.com/highlightjs/highlight.js/tree/main/src/styles から好きなものを選ぼう
     "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github-dark.min.css"
   )
   .use(codeHighlight());
