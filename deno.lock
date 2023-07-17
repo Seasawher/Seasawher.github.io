@@ -274,6 +274,7 @@
     "https://deno.land/x/lume@v1.18.1/deps/flags.ts": "dedb5b4ebe50e947ff9fa402e175ef8b5e0c79230427e870a2816dfb5cd11577",
     "https://deno.land/x/lume@v1.18.1/deps/front_matter.ts": "c136f28b9c17b94601ec1f42a93342ab700c4e2daf64b9b7dc12c35283c80b0f",
     "https://deno.land/x/lume@v1.18.1/deps/fs.ts": "a84d6cddcc4c3c70e9842294a3d6e527b35c84672fc6efed3fcf5fdf4363307f",
+    "https://deno.land/x/lume@v1.18.1/deps/highlight.ts": "e949067730c5e9c57bc4c102ccafa3bec0ea1cf681c921fe8336b1a6bd0c4f33",
     "https://deno.land/x/lume@v1.18.1/deps/http.ts": "10c31cc25acf3aacba6c5fa5f3eba17f5f0f9625143c1db1143a4f1a638ea5c7",
     "https://deno.land/x/lume@v1.18.1/deps/jsonc.ts": "40ff62d1fd2ff3a575dc9e6f9ba1bf478a544f7d931f838a79cca3dfbc6ff928",
     "https://deno.land/x/lume@v1.18.1/deps/markdown_it.ts": "e48e34de092bc3fc96617372f26190cf3bbf722f4206a9e9e64febbc8fb925c4",
@@ -293,6 +294,7 @@
     "https://deno.land/x/lume@v1.18.1/middlewares/reload_client.js": "34d75e01503fae8180796de882af42b1125fac88f22a010a99d5548de1ba7d72",
     "https://deno.land/x/lume@v1.18.1/mod.ts": "829abdd9fe45f04a6db27caa9e3bcc7f72b65c3810b67ad498582bc05b5e743d",
     "https://deno.land/x/lume@v1.18.1/plugins/base_path.ts": "0241df3cf2696eed446ca8c983d2c2ca36ae57bd46fb2c6d92f582c1909b095b",
+    "https://deno.land/x/lume@v1.18.1/plugins/code_highlight.ts": "5b177676c6c60ba10d676ac9fc8b8b3103920529bb115656adc406737f25c9ab",
     "https://deno.land/x/lume@v1.18.1/plugins/date.ts": "5b5b4a5715db86c39b4342366d3cc1e5ee67fd57d58acc0d0d793f90de4d53f6",
     "https://deno.land/x/lume@v1.18.1/plugins/json.ts": "ca6bf1bc6d42639f7bdf581dc9318832d8c2eaf83ae3ecdab6f02dfc738896bf",
     "https://deno.land/x/lume@v1.18.1/plugins/markdown.ts": "31a27f73ed3c79c6c87808ef9e4343c0bbbf896220ee97e88dad4474f091fb39",
@@ -337,6 +339,7 @@
       "@types/react@18.2.14": "@types/react@18.2.14",
       "autoprefixer@10.4.14": "autoprefixer@10.4.14_postcss@8.4.24",
       "date-fns@2.30.0": "date-fns@2.30.0",
+      "highlight.js@11.8.0": "highlight.js@11.8.0",
       "markdown-it-attrs@4.1.6": "markdown-it-attrs@4.1.6_markdown-it@13.0.1",
       "markdown-it-deflist@2.1.0": "markdown-it-deflist@2.1.0",
       "markdown-it@13.0.1": "markdown-it@13.0.1",
@@ -515,6 +518,10 @@
         "dependencies": {
           "function-bind": "function-bind@1.1.1"
         }
+      },
+      "highlight.js@11.8.0": {
+        "integrity": "sha512-MedQhoqVdr0U6SSnWPzfiadUcDHfN/Wzq25AkXiQv9oiOO/sG0S7XkvpFIqWBl9Yq1UYyYOOVORs5UW2XlPyzg==",
+        "dependencies": {}
       },
       "is-core-module@2.12.1": {
         "integrity": "sha512-Q4ZuBAe2FUsKtyQJoQHlvP8OvBERxO3jEmy1I7hcRXcJBGGHFh/aJBswbXuS9sgrDH2QUO8ilkwNPHvHMd8clg==",
