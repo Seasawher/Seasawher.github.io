@@ -1,5 +1,6 @@
 ---
 title: Quest2 の充電🔋がすぐに切れてしまう
+date: 2023-07-17
 tags:
   - vrchat
   - meta-quest

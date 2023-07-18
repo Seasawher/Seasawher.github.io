@@ -1,5 +1,6 @@
 ---
 title: Hello Lume!
+date: 2023-07-15
 tags:
   - 最初の投稿
   - Lume
