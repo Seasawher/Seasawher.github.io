@@ -36,3 +36,14 @@ VRC がそこそこプレイできる必要があるのですが，それには�
 * 一人で持ち運べる重さ (20kg 以下)
 
 価格をできるだけ抑えるため，上記条件を満たすなるべく低価格なPCを探すことになります．
+
+### Mouse: G-Tune
+
+以下のモデルをメモリ 32GB にすれば使えそうです．価格は 20万5200 円．
+
+* [G-Tune PG-I5G60](https://www.mouse-jp.co.jp/store/g/ggtune-pgi5g60b6acbw101dec/)
+
+* RAM: 32GB
+* GPU: RTX 3060 / 12GB
+* CPU: i5-13400F
+
