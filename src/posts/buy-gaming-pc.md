@@ -1,6 +1,6 @@
 ---
 title: 新しいゲーム用PCを買う
-date: 2023-07-18
+date: 2023-07-20
 tags:
   - vrchat
   - pc
