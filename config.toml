@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://seasawher.github.io/profile"      # Domain name of your website
+base_url = "https://seasawher.github.io"      # Domain name of your website
 title = "パンの木を植えて"
 description = "個人ブログです"
 default_language = "ja"
