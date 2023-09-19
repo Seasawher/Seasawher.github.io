@@ -1,16 +1,21 @@
----
-title: Hello Lume!
-date: 2023-07-15
-tags:
-  - 最初の投稿
-  - Lume
----
++++
+title = "Hello Lume!"
+date = 2023-07-15
+draft = false
+
+[taxonomies]
+categories = ["開発"]
+tags = ["最初の投稿", "Lume"]
+
+[extra]
+comment = true
++++
 
 ### Lume を試してみた
 
 Deno 製の静的サイト生成ツール [Lume](https://lume.land/) を試してみました．個人的なメモの置き場所にしようかと思います．
 
-既にブログとしては[はてなブログ](https://seasawher.hatenablog.com/)があるんですが，
+既にブログとしてははてなブログがあるんですが，
 
 * Proが切れて広告が表示されるようになってしまった
 * かといってProを更新するほど，今後の運用方針が定まっているわけでもない

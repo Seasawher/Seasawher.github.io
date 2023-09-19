@@ -1,10 +1,15 @@
----
-title: Quest2 の充電🔋がすぐに切れてしまう
-date: 2023-07-17
-tags:
-  - vrchat
-  - meta-quest
----
++++
+title = "Quest2 の充電🔋がすぐに切れてしまう"
+date = 2023-07-17
+draft = true
+
+[taxonomies]
+categories = ["買い物"]
+tags = ["vrchat", "meta-quest"]
+
+[extra]
+comment = true
++++
 
 ### 問題のあらまし
 

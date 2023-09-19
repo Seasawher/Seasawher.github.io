@@ -1,10 +1,15 @@
----
-title: Lume をデプロイする
-date: 2023-07-16
-tags:
-  - Lume
-  - deploy
----
++++
+title = "Lume をデプロイする"
+date = 2023-07-16
+draft = false
+
+[taxonomies]
+categories = ["開発"]
+tags = ["Lume", "deploy", "StarShip"]
+
+[extra]
+comment = true
++++
 
 このブログはDeno/Lumeで作成して，Deno Deploy にデプロイしているのですが，成功するまでにかなり手間取ったので，手順をメモしておきます．
 
