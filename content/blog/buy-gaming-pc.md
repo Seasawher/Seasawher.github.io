@@ -1,10 +1,15 @@
----
-title: 新しいゲーム用PCを買う
-date: 2023-07-20
-tags:
-  - vrchat
-  - pc
----
++++
+title = "新しいゲーム用PCを買う"
+date = 2023-07-20
+draft = true
+
+[taxonomies]
+categories = ["買い物"]
+tags = ["vrchat", "pc"]
+
+[extra]
+comment = true
++++
 
 VRChat を始めたのは良いものの，Quest単体だと見られないアバターや行けないワールドがたくさんあることに気づきました．一緒に遊ぶフレンドに迷惑がかかるのが忍びないので，新しくゲーム用のPCを買うことにします．
 

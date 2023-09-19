@@ -2,7 +2,7 @@
 template = 'home.html'
 
 [extra]
-lang = 'en'
+lang = 'ja'
 +++
 
 Words about you

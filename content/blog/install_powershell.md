@@ -1,11 +1,15 @@
----
-title: PowerShell Coreをインストールしてターミナルをカスタマイズする
-date: 2023-07-25
-tags:
-  - PowerShell
-  - WindowsTerminal
-  - StarShip
----
++++
+title = "PowerShell Coreをインストールしてターミナルをカスタマイズする"
+date = 2023-07-25
+draft = false
+
+[taxonomies]
+categories = ["開発"]
+tags = ["PowerShell", "WindowsTerminal", "StarShip"]
+
+[extra]
+comment = true
++++
 
 パソコンを買い替えるたびに PowerShell Core のインストールが必要なので，手順をまとめておきます．
 
