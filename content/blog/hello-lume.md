@@ -9,14 +9,13 @@ tags = ["最初の投稿", "Lume"]
 
 [extra]
 comment = true
-outdate_alert_days = 60
 +++
 
 ### Lume を試してみた
 
 Deno 製の静的サイト生成ツール [Lume](https://lume.land/) を試してみました．個人的なメモの置き場所にしようかと思います．
 
-既にブログとしては[はてなブログ](https://seasawher.hatenablog.com/)があるんですが，
+既にブログとしてははてなブログがあるんですが，
 
 * Proが切れて広告が表示されるようになってしまった
 * かといってProを更新するほど，今後の運用方針が定まっているわけでもない
