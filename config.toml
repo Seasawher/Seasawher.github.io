@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://example.com"      # Domain name of your website
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "パンの木を植えて"
+description = "個人ブログです"
 default_language = "ja"
 theme = "serene"
 output_dir = "public"
@@ -41,14 +41,14 @@ anchors = "on"
 
 [extra]
 
-name = "xxxx"                         # Your name
-id = "xxxx"                           # Your id / username / handle
-bio = "xxxx"                          # Your bio
+name = "Kitamado"                     # Your name
+id = "Seasawher"                      # Your id / username / handle
+bio = "白菜を炊いたやつが好きです"      # Your bio
 avatar = "img/avatar.webp"            # Your avatar
 links = [                             # Your links
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/Seasawher" },
+    # { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
+    # { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
 ]
 
 homepage_layout = "about"             # "about" | "list"
@@ -82,7 +82,7 @@ outdate_alert_days = 120              # How many days will a post be outdated by
 outdate_alert_text_before = "この記事の最終更新日は"
 outdate_alert_text_after = "前であり，内容が古い可能性があります．"
 
-footer_copyright = "© 2023 <your-name>"
+footer_copyright = "© 2023 Seasawher"
 footer_credits = true                 # Whether to show "powered by zola and serene" in footer
 
 not_found_title = "404"

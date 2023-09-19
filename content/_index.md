@@ -5,4 +5,3 @@ template = 'home.html'
 lang = 'ja'
 +++
 
-Words about you
