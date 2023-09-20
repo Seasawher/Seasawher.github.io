@@ -4,7 +4,7 @@ date = 2023-07-16
 draft = false
 
 [taxonomies]
-tags = ["Lume", "deploy", "StarShip"]
+tags = ["Lume", "deploy"]
 
 [extra]
 comment = true
