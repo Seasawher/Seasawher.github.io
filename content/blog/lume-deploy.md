@@ -4,7 +4,6 @@ date = 2023-07-16
 draft = false
 
 [taxonomies]
-categories = ["開発"]
 tags = ["Lume", "deploy", "StarShip"]
 
 [extra]

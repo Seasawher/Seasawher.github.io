@@ -4,7 +4,6 @@ date = 2023-07-25
 draft = false
 
 [taxonomies]
-categories = ["開発"]
 tags = ["PowerShell", "WindowsTerminal", "StarShip"]
 
 [extra]
