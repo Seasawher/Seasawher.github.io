@@ -1,0 +1,25 @@
+[[project]]
+name = "京大院試数学解答"
+desc = "京大の数学系の院の, 院試の問題の解答例PDF. 当時蔓延していた有料の解答を駆逐するために作成．"
+tags = ["math", "pdf"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/graduate_exam" },
+]
+
+[[project]]
+name = "Mathematics in Type Theory 日本語訳"
+desc = "集合論ではなく，型理論をベースに数学を行うということがどういうことか，数学を知っている人向けにわかりやすく説明したブログ記事の日本語訳．"
+tags = ["math", "lean", "mdbook", "lean-ja"]
+links = [
+  { name = "GitHub", url = "https://github.com/lean-ja/math-in-type-theory-ja" },
+  { name = "Content", url = "https://lean-ja.github.io/math-in-type-theory-ja/" },
+]
+
+[[project]]
+name = "lean-ja トップページ"
+desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイト．"
+tags = ["lean", "lean-ja", "zola", "juice"]
+links = [
+  { name = "GitHub", url = "https://github.com/lean-ja/math-in-type-theory-ja" },
+  { name = "Content", url = "https://lean-ja.github.io/" },
+]
