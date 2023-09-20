@@ -78,9 +78,9 @@ display_tags = true                   # Whether to display tags on post pages by
 truncate_summary = false              # Whether to truncate the summary of a post by default
 
 outdate_alert = false                 # Whether to show outdate alert by default
-outdate_alert_days = 120              # How many days will a post be outdated by default
-outdate_alert_text_before = "この記事の最終更新日は"
-outdate_alert_text_after = "前であり，内容が古い可能性があります．"
+outdate_alert_days = 30              # How many days will a post be outdated by default
+outdate_alert_text_before = "この記事の最終更新は"
+outdate_alert_text_after = "日前であり，内容が古い可能性があります．"
 
 footer_copyright = "© 2023 Seasawher"
 footer_credits = true                 # Whether to show "powered by zola and serene" in footer
