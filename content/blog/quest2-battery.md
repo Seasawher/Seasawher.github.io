@@ -7,7 +7,6 @@ draft = true
 tags = ["vrchat", "meta-quest"]
 
 [extra]
-comment = true
 +++
 
 ### 問題のあらまし

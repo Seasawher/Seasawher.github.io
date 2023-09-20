@@ -7,7 +7,6 @@ draft = false
 tags = ["PowerShell", "WindowsTerminal", "StarShip"]
 
 [extra]
-comment = true
 +++
 
 パソコンを買い替えるたびに PowerShell Core のインストールが必要なので，手順をまとめておきます．

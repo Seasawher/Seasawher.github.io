@@ -7,7 +7,6 @@ draft = false
 tags = ["Lume", "deploy"]
 
 [extra]
-comment = true
 +++
 
 このブログはDeno/Lumeで作成して，Deno Deploy にデプロイしているのですが，成功するまでにかなり手間取ったので，手順をメモしておきます．
