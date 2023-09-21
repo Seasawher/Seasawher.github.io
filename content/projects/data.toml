@@ -23,3 +23,12 @@ links = [
   { name = "GitHub", url = "https://github.com/lean-ja/lean-ja.github.io" },
   { name = "Content", url = "https://lean-ja.github.io/" },
 ]
+
+[[project]]
+name = "Lean4 タクティク逆引きリスト"
+desc = "普段の数学を Lean にどう翻訳するのかイメージできるように，Lean でよく使うタクティクを使用場面から逆引きできるようにまとめたリスト．"
+tags = ["lean", "lean-ja", "mdbook"]
+links = [
+  { name = "GitHub", url = "https://github.com/lean-ja/tactic-cheetsheet" },
+  { name = "Content", url = "https://lean-ja.github.io/tactic-cheetsheet/" },
+]
