@@ -20,6 +20,6 @@ name = "lean-ja トップページ"
 desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイト．"
 tags = ["lean", "lean-ja", "zola", "juice"]
 links = [
-  { name = "GitHub", url = "https://github.com/lean-ja/math-in-type-theory-ja" },
+  { name = "GitHub", url = "https://github.com/lean-ja/lean-ja.github.io" },
   { name = "Content", url = "https://lean-ja.github.io/" },
 ]
