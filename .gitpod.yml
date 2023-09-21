@@ -1,0 +1,8 @@
+vscode:
+    extensions:
+      - GitHub.github-vscode-theme
+      - yzhang.markdown-all-in-one
+      - PKief.material-icon-theme
+      - mhutchie.git-graph
+      - bungcip.better-toml
+      - bierner.emojisense
