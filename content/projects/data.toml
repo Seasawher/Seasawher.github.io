@@ -9,7 +9,7 @@ links = [
 [[project]]
 name = "Mathematics in Type Theory 日本語訳"
 desc = "集合論ではなく，型理論をベースに数学を行うということがどういうことか，数学を知っている人向けにわかりやすく説明したブログ記事の日本語訳．"
-tags = ["math", "lean", "mdbook", "lean-ja"]
+tags = ["math", "lean", "mdbook", "lean-ja", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/math-in-type-theory-ja" },
   { name = "Content", url = "https://lean-ja.github.io/math-in-type-theory-ja/" },
@@ -18,7 +18,7 @@ links = [
 [[project]]
 name = "lean-ja トップページ"
 desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイト．"
-tags = ["lean", "lean-ja", "zola", "juice"]
+tags = ["lean", "lean-ja", "zola", "juice", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/lean-ja.github.io" },
   { name = "Content", url = "https://lean-ja.github.io/" },
@@ -26,9 +26,17 @@ links = [
 
 [[project]]
 name = "Lean4 タクティク逆引きリスト"
-desc = "普段の数学を Lean にどう翻訳するのかイメージできるように，Lean でよく使うタクティクを使用場面から逆引きできるようにまとめたリスト．"
-tags = ["lean", "lean-ja", "mdbook"]
+desc = "普段の数学を Lean にどう翻訳するのかイメージできるように, Lean でよく使うタクティクを使用場面から逆引きできるようにまとめたリスト．"
+tags = ["lean", "lean-ja", "mdbook", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/tactic-cheetsheet" },
   { name = "Content", url = "https://lean-ja.github.io/tactic-cheetsheet/" },
+]
+
+[[project]]
+name = "Lean4 Docker イメージ"
+desc = "Lean の環境構築で少し詰まったので自分用に作成したイメージ. GitHub Action でビルド. GitPod や Codespace を使うようになったので，現在開発中止．"
+tags = ["lean", "docker-image", "github-action"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/docker-lean4" },
 ]
