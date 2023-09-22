@@ -4,7 +4,7 @@ date = 2023-09-22
 draft = false
 
 [taxonomies]
-tags = ["development", "rust", "SSG"]
+tags = ["development", "rust", "SSG", "product-hunt"]
 
 [extra]
 +++

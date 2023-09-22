@@ -4,7 +4,7 @@ date = 2023-07-17
 draft = true
 
 [taxonomies]
-tags = ["vrchat", "meta-quest"]
+tags = ["vrchat", "meta-quest", "shopping"]
 
 [extra]
 +++

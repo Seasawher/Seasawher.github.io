@@ -4,7 +4,7 @@ date = 2023-07-25
 draft = false
 
 [taxonomies]
-tags = ["PowerShell", "WindowsTerminal", "StarShip"]
+tags = ["PowerShell", "WindowsTerminal", "StarShip", "setup"]
 
 [extra]
 +++

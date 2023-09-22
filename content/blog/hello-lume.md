@@ -4,7 +4,7 @@ date = 2023-07-15
 draft = false
 
 [taxonomies]
-tags = ["最初の投稿", "Lume"]
+tags = ["最初の投稿", "Lume", "product-hunt"]
 
 [extra]
 outdate_alert = true
