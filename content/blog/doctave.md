@@ -17,4 +17,4 @@ Rust 製の静的サイトジェネレータ(Static Site Generator, SSG)とい�
 
 今度使ってみることがあったら，感想を書くことにします．
 
-[^issue] https://github.com/Doctave/doctave/issues/51
+[^issue] <https://github.com/Doctave/doctave/issues/51>
