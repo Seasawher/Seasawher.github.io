@@ -40,3 +40,11 @@ tags = ["lean", "docker-image", "github-action"]
 links = [
   { name = "GitHub", url = "https://github.com/Seasawher/docker-lean4" },
 ]
+
+[[project]]
+name = "Poetry Devcontainer テンプレート"
+desc = "poetry の環境構築で詰まったときに作った設定ファイルを，公開用に手直ししたもの."
+tags = ["poetry", "devcontainer"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/poetry-devcontainer" },
+]
