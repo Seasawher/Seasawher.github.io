@@ -77,8 +77,8 @@ comment = true                        # Whether to show giscus comment section b
 display_tags = true                   # Whether to display tags on post pages by default
 truncate_summary = false              # Whether to truncate the summary of a post by default
 
-outdate_alert = false                 # Whether to show outdate alert by default
-outdate_alert_days = 30              # How many days will a post be outdated by default
+outdate_alert = true                  # Whether to show outdate alert by default
+outdate_alert_days = 365              # How many days will a post be outdated by default
 outdate_alert_text_before = "この記事の最終更新は"
 outdate_alert_text_after = "日前であり，内容が古い可能性があります．"
 

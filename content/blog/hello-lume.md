@@ -7,7 +7,6 @@ draft = false
 tags = ["最初の投稿", "Lume", "product-hunt"]
 
 [extra]
-outdate_alert = true
 +++
 
 ### Lume を試してみた
