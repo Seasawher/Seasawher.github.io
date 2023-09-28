@@ -44,7 +44,15 @@ links = [
 [[project]]
 name = "Poetry Devcontainer テンプレート"
 desc = "poetry の環境構築で詰まったときに作った設定ファイルを，公開用に手直ししたもの."
-tags = ["poetry", "devcontainer"]
+tags = ["poetry", "devcontainer", "python"]
 links = [
   { name = "GitHub", url = "https://github.com/Seasawher/poetry-devcontainer" },
+]
+
+[[project]]
+name = "Conway の Life Game"
+desc = "Deno と TypeScript を使ってみたかったので，試しに昔から作ってみたかったライフゲームを作ってみました．"
+tags = ["deno", "typescript", "p5js"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/game-of-life" },
 ]
