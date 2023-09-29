@@ -72,3 +72,11 @@ tags = ["django", "react", "python", "tailwind"]
 links = [
   { name = "GitHub", url = "https://github.com/Seasawher/cs50web-capstone" },
 ]
+
+[[project]]
+name = "Machine Learning Projects"
+desc = "FreeCodeCamp の課題 Machine Learning with Python に取り組んだ記録です．"
+tags = ["machine-learning", "python", "tensorflow", "jupyter-notebook"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/fcc-machine-learning" },
+]
