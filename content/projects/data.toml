@@ -12,7 +12,7 @@ desc = "集合論ではなく，型理論をベースに数学を行うという
 tags = ["math", "lean", "mdbook", "lean-ja", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/math-in-type-theory-ja" },
-  { name = "Content", url = "https://lean-ja.github.io/math-in-type-theory-ja/" },
+  { name = "Website", url = "https://lean-ja.github.io/math-in-type-theory-ja/" },
 ]
 
 [[project]]
@@ -21,7 +21,7 @@ desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイト�
 tags = ["lean", "lean-ja", "zola", "juice", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/lean-ja.github.io" },
-  { name = "Content", url = "https://lean-ja.github.io/" },
+  { name = "Website", url = "https://lean-ja.github.io/" },
 ]
 
 [[project]]
@@ -30,7 +30,7 @@ desc = "普段の数学を Lean にどう翻訳するのかイメージできる
 tags = ["lean", "lean-ja", "mdbook", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/tactic-cheetsheet" },
-  { name = "Content", url = "https://lean-ja.github.io/tactic-cheetsheet/" },
+  { name = "Website", url = "https://lean-ja.github.io/tactic-cheetsheet/" },
 ]
 
 [[project]]
