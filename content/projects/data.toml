@@ -56,3 +56,19 @@ tags = ["deno", "typescript", "p5js"]
 links = [
   { name = "GitHub", url = "https://github.com/Seasawher/game-of-life" },
 ]
+
+[[project]]
+name = "簡単な Chatbot"
+desc = "HuggingFace からモデルを引用して作成したシンプルなチャットボット．現在運用していません．"
+tags = ["streamlit", "machine-learning", "python"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/chatbot-tutorial" },
+]
+
+[[project]]
+name = "Quiz 投稿サイト"
+desc = "CS50 Web の課題として Django + React + TailWindCSS で作ったWebサイト. クイズを投稿し，回答することができます．"
+tags = ["django", "react", "python", "tailwind"]
+links = [
+  { name = "GitHub", url = "https://github.com/Seasawher/cs50web-capstone" },
+]
