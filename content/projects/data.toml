@@ -1,7 +1,7 @@
 [[project]]
 name = "京大院試数学解答"
-desc = "京大の数学系の院の, 院試の問題の解答例PDF. 当時蔓延していた有料の解答を駆逐するために作成．"
-tags = ["math", "pdf"]
+desc = "京大の数学系の院の, 院試の問題の解答例PDF. 当時蔓延していた有料の解答を駆逐するために作成しました．"
+tags = ["math", "pdf", "tex"]
 links = [
   { name = "GitHub", url = "https://github.com/Seasawher/graduate_exam" },
 ]
@@ -17,7 +17,7 @@ links = [
 
 [[project]]
 name = "lean-ja トップページ"
-desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイト．"
+desc = "Lean 言語の日本語コミュニティ lean-ja のウェブサイトです．Zola で制作し，GitHub Pages にデプロイしています．ロゴは lean-ja のメンバーの方に作っていただきました．"
 tags = ["lean", "lean-ja", "zola", "juice", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/lean-ja.github.io" },
@@ -26,57 +26,9 @@ links = [
 
 [[project]]
 name = "Lean4 タクティク逆引きリスト"
-desc = "普段の数学を Lean にどう翻訳するのかイメージできるように, Lean でよく使うタクティクを使用場面から逆引きできるようにまとめたリスト．"
+desc = "普段の数学を Lean にどう翻訳するのかイメージできるように, Lean でよく使うタクティクを使用場面から逆引きできるようにまとめたリストです．"
 tags = ["lean", "lean-ja", "mdbook", "github-pages"]
 links = [
   { name = "GitHub", url = "https://github.com/lean-ja/tactic-cheetsheet" },
   { name = "Website", url = "https://lean-ja.github.io/tactic-cheetsheet/" },
-]
-
-[[project]]
-name = "Lean4 Docker イメージ"
-desc = "Lean の環境構築で少し詰まったので自分用に作成したイメージ. GitHub Action でビルド. GitPod や Codespace を使うようになったので，現在開発中止．"
-tags = ["lean", "docker-image", "github-action"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/docker-lean4" },
-]
-
-[[project]]
-name = "Poetry Devcontainer テンプレート"
-desc = "poetry の環境構築で詰まったときに作った設定ファイルを，公開用に手直ししたもの."
-tags = ["poetry", "devcontainer", "python"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/poetry-devcontainer" },
-]
-
-[[project]]
-name = "Conway の Life Game"
-desc = "Deno と TypeScript を使ってみたかったので，試しに昔から作ってみたかったライフゲームを作ってみました．"
-tags = ["deno", "typescript", "p5js"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/game-of-life" },
-]
-
-[[project]]
-name = "簡単な Chatbot"
-desc = "HuggingFace からモデルを引用して作成したシンプルなチャットボット．現在運用していません．"
-tags = ["streamlit", "machine-learning", "python"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/chatbot-tutorial" },
-]
-
-[[project]]
-name = "Quiz 投稿サイト"
-desc = "CS50 Web の課題として Django + React + TailWindCSS で作ったWebサイト. クイズを投稿し，回答することができます．"
-tags = ["django", "react", "python", "tailwind"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/cs50web-capstone" },
-]
-
-[[project]]
-name = "Machine Learning Projects"
-desc = "FreeCodeCamp の課題 Machine Learning with Python に取り組んだ記録です．"
-tags = ["machine-learning", "python", "tensorflow", "jupyter-notebook"]
-links = [
-  { name = "GitHub", url = "https://github.com/Seasawher/fcc-machine-learning" },
 ]
